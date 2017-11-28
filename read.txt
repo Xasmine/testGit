@@ -1,3 +1,6 @@
 for(int i = 0; i < 10; i++){
 	print("hhh")
 }
+for(int i = 0; i < 10; i++){
+	print("hhh")
+}
